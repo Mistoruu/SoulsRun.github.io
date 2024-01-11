@@ -1,0 +1,30 @@
+:root{
+
+}
+*, *::before, *::after{
+    box-sizing: border-box;
+}
+*{
+    margin: 0;
+}
+
+main.jeux div h2{
+    display: flex;
+    justify-content: center;
+
+    font-size: 3rem;
+    margin-top: 3%;
+    margin-bottom: 7%;
+}
+
+iframe {
+    margin-left: 3%;
+
+}
+
+main.jeux p {
+    font-size: 1.3rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 3%;
+}
